@@ -1,4 +1,3 @@
-
 # Autism Activity Recognition using MMASD Dataset
 
 This repository contains my implementation and experimental work on autism activity recognition using the MMASD (Multimodal Dataset for Autism Intervention Analysis) benchmark dataset.
@@ -23,7 +22,7 @@ The implementation includes:
 * Computer Vision
 * OpenCV
 * NumPy
-* PyTorch / TensorFlow
+* PyTorch
 
 ## Reference Paper
 
@@ -49,3 +48,4 @@ https://github.com/Li-Jicheng/MMASD-A-Multimodal-Dataset-for-Autism-Intervention
 ## Current Status
 
 This project is currently under active development, and additional experiments, optimizations, and model improvements are ongoing.
+
