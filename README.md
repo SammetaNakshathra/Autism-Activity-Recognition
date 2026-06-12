@@ -1,4 +1,4 @@
-# Autism-Activity-Recognition
+
 # Autism Activity Recognition using MMASD Dataset
 
 This repository contains my implementation and experimental work on autism activity recognition using the MMASD (Multimodal Dataset for Autism Intervention Analysis) benchmark dataset.
